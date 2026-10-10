@@ -1,0 +1,18 @@
+[theme]
+# Force le mode sombre natif de Streamlit
+base = "dark"
+
+# Couleur d'accentuation principale (Cyan néon comme votre exemple de référence)
+primaryColor = "#00d2ff"
+
+# Couleur de fond principale de l'application (Bleu nuit profond)
+backgroundColor = "#0b0f19"
+
+# Couleur des cartes, de la barre latérale et des conteneurs
+secondaryBackgroundColor = "#161f30"
+
+# Couleur du texte (Blanc pur ultra-lisible, fini les textes gris pâles)
+textColor = "#ffffff"
+
+# Typographie épurée et moderne
+font = "sans serif"
